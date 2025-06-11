@@ -27,15 +27,18 @@ streamlit run app.py
 ```
 ---
 ### Listening Expenditure
+---
 ![Screenshot (221)](https://github.com/user-attachments/assets/70db8149-5ed5-4e7d-9a94-dc6b2beb2e72)
----
+
 ### Edit Response
-![Screenshot (222)](https://github.com/user-attachments/assets/48a939dd-7ea3-489e-8b9f-c56f7e4152af)
 ---
+![Screenshot (222)](https://github.com/user-attachments/assets/48a939dd-7ea3-489e-8b9f-c56f7e4152af)
 
 ### Total Expenditure
-![Screenshot (224)](https://github.com/user-attachments/assets/757b9f23-5c88-4503-9e24-ed03ed2e0ef8)
 ---
+![Screenshot (224)](https://github.com/user-attachments/assets/757b9f23-5c88-4503-9e24-ed03ed2e0ef8)
+
 ### Pie Chart
+---
 ![Screenshot (223)](https://github.com/user-attachments/assets/620cf1e4-50c0-4bd5-bb08-e19951d30eea)
 
