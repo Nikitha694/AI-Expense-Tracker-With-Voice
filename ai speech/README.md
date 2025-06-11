@@ -18,5 +18,6 @@ A Streamlit-based personal expense tracker that lets you add expenses using voic
 
 ## To Run:
 
+```bash
 pip install -r requirements.txt
 streamlit run app.py
