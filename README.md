@@ -24,6 +24,7 @@ A Streamlit-based AI-powered personal expense tracker that allows users to log d
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 ---
 ### Pie Chart
 ![Screenshot (223)](https://github.com/user-attachments/assets/e0a0cc1e-d25b-4c8d-945d-02bfceb0c08e)
